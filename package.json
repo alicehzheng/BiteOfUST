@@ -1,0 +1,20 @@
+{
+  "name": "a-bite-of-ust",
+  "version": "1.0.0",
+  "description": "a hackjam project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "food",
+    "hkust"
+  ],
+  "repository": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}

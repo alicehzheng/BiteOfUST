@@ -1,0 +1,17 @@
+body {
+	background-color: #0288D1;
+}
+
+.horizontal-occupy {
+	width: 100%;
+}
+
+.is-table {
+	display: table;
+}
+.is-table-row {
+	display: table-row;
+}
+.is-table-cell {
+	display: table-cell;
+}
